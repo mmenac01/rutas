@@ -1,7 +1,42 @@
-{
+[{
   "nombre":"Gran Teatro - Iglesia de San Mateo",
   "latI":"39.47322466324683",
   "lonI":"-6.37545961886859",
   "latD":"39.47307973123443",
   "lonD":"-6.37091863900802"
-}
+},
+{
+   "nombre":"Plaza San Francisco - Baluarte de los Pozos",
+  "latI":"39.47061525095091",
+  "lonI":"-6.370329302163383",
+  "latD":"39.47243915412448",
+  "lonD":"-6.369327730999777"
+},
+{
+   "nombre":"Cruz de los Caídos - Santuario de Nuestra Señora la Virgen de la Montaña",
+  "latI":"39.468436803456875",
+  "lonI":"-6.379300159836317",
+  "latD":"39.46265389199325",
+  "lonD":"-6.3517324426357495"
+},
+{
+   "nombre":"Puerta de Palmas-Alcazaba de Badajoz",
+  "latI":"38.88080638893279",
+  "lonI":"-6.975632046361688",
+  "latD":"38.88416927116345",
+  "lonD":"-6.968329038201713"
+},
+{
+   "nombre":"Torre del Pendón-Catedral Metropolitana de San Juan Bautista de Badajoz",
+  "latI":"38.88415746035198",
+  "lonI":"-6.968313865335727",
+  "latD":"38.8782990558687",
+  "lonD":"-6.969664250408422"
+},
+{
+   "nombre":"MUBA, Museo de Bellas Artes de Badajoz-Torre Espantaperros",
+  "latI":"38.880279161559315",
+  "lonI":"-6.9718993567232905",
+  "latD":"38.881220255341304",
+  "lonD":"-6.967370392996924"
+}]
