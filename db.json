@@ -39,4 +39,33 @@
   "lonI":"-6.9718993567232905",
   "latD":"38.881220255341304",
   "lonD":"-6.967370392996924"
+},
+{
+   "nombre":"Puente Romano de Mérida-Termas Romanas de San Lázaro
+",
+  "latI":"38.9153884747041",
+  "lonI":"-6.348215745980219",
+  "latD":"38.9215025521871",
+  "lonD":"-6.335415632040718"
+},
+{
+   "nombre":"Acueducto de los Milagros-Monumento a Rafael Ortega",
+  "latI":"38.92477998506798",
+  "lonI":"-6.347891692462762",
+  "latD":"38.912551868124446",
+  "lonD":"-6.337927046800999"
+},
+{
+   "nombre":"Área arqueológica de Morería-Circo Romano de Mérida",
+  "latI":"",
+  "lonI":"",
+  "latD":"38.92199641253097",
+  "lonD":"-6.333595721959558"
+},
+{
+   "nombre":"Teatro Romano de Mérida-Arco de Trajano",
+  "latI":"38.916452321630345",
+  "lonI":"-6.338594668696523",
+  "latD":"38.91850339440785",
+  "lonD":"-6.346449288814357"
 }]
